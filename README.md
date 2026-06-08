@@ -3,7 +3,7 @@
 ## Internship Details
 
 * Intern Name: Harisri C M
-* Intern ID: CITCS326
+* Intern ID: CITS3326
 * Internship Program: Codtech Internship
 * Duration: 4 Weeks
 
